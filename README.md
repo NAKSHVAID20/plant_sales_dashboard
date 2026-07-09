@@ -3,9 +3,7 @@ Here is the complete project documentation and analysis for the **Plant Co. Gros
 
 ---
 
-## 1. Project Title / Headline
-
-🌱 **Plant Co. Analytics: Gross Profit Performance & Profitability Segmentation Dashboard**
+## 1. 🌱 **Plant Co. Analytics: Gross Profit Performance & Profitability Segmentation Dashboard**
 
 An interactive financial analytics dashboard designed to track Year-to-Date (YTD) gross profit performance against Prior Year-to-Date (PYTD), identify regional revenue leakages, and segment account profitability across product lines.
 
