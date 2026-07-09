@@ -59,3 +59,10 @@ Plant Co. is experiencing a severe downward trend in overall profitability, with
 * **Geographical Interventions:** Management must urgently review operations and sales strategies in **China**, as it accounts for over **35% of the total global profit decline**.
 * **Seasonal & Product Strategy:** The stark drop in Q1 performance indicates that winter/early-spring sales strategies for *Indoor* and *Landscape* plants failed to repeat last year's success. Promotional campaigns should be adjusted ahead of Q1 next year.
 * **Account Optimization:** Sales teams can use the scatter plot segmentation to renegotiate pricing with high-volume accounts sitting below the **40% profit margin threshold**, while creating loyalty programs for accounts in the top-right quadrant.
+
+
+## 6. Screenshots / Demos
+
+Show what the dashboard looks like.
+
+![Plant Co. Dashboard Preview](https://github.com/username/repo/assets/Screenshot%202026-07-09%20082756.png)
