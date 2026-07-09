@@ -28,7 +28,7 @@ The dashboard was built using the following business intelligence tools and tech
 
 ## 4. Data Source & Structure
 
-* **Source:** Plant Co. Enterprise Resource Planning (ERP) and sales transaction databases.
+* **Source:** Kaggle.com
 * **Structure:** Contains multi-year transactional records aggregated by **Year** and **Month**, categorized by **Country** (global operations), **Product Type** (*Indoor*, *Landscape*, *Outdoor*), and individual client **Accounts**, tracking core financial metrics including Sales Volume, Quantity Sold, and Gross Profit Margins.
 
 ---
