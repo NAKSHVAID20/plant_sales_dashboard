@@ -65,4 +65,4 @@ Plant Co. is experiencing a severe downward trend in overall profitability, with
 
 Show what the dashboard looks like.
 
-![Plant Co. Dashboard Preview](https://github.com/username/repo/assets/Screenshot%202026-07-09%20082756.png)
+![Plant Co. Dashboard Preview][(https://github.com/NAKSHVAID20/plant_sales_dashboard/blob/main/Plant_Sales.png)]
